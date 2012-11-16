@@ -1,5 +1,4 @@
 theme.bootmod
-Author: Rob Walton
 
 MODx Revolution Twitter Bootstrap (http://twitter.github.com/bootstrap/) theme
 
