@@ -7,8 +7,8 @@
         <!-- Here you can change your default template: just add the name of the folder where others template are,
         for example: href="[[++assets_url]]components/themebootstrap/css/cerulean/bootstrap.min.css" - cerulean template. -->
         <link href="[[++assets_url]]components/themebootmod/css/bootstrap.min.css" rel="stylesheet">
-        <link href="[[++assets_url]]components/themebootmod/css/main.css" rel="stylesheet">
         <link href="[[++assets_url]]components/themebootmod/css/bootstrap-responsive.min.css" rel="stylesheet">
+        <link href="[[++assets_url]]components/themebootmod/css/main.css" rel="stylesheet">
 
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
